@@ -1,0 +1,7 @@
+2024/04/27-21:06:00.398 88c Reusing MANIFEST C:/Unreal_Projects/MazetakeAlpha/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/27-21:06:00.405 88c Recovering log #3
+2024/04/27-21:06:00.406 88c Reusing old log C:/Unreal_Projects/MazetakeAlpha/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/04/27-21:15:39.471 1fb0 Level-0 table #5: started
+2024/04/27-21:15:39.479 1fb0 Level-0 table #5: 1167 bytes OK
+2024/04/27-21:15:39.480 1fb0 Delete type=0 #3
+2024/04/27-21:15:39.480 1fb0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
